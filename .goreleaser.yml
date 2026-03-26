@@ -55,7 +55,9 @@ brews:
     homepage: https://github.com/lehi10/Gitty
     description: Interactive Git branch management CLI
     license: MIT
-    folder: Formula
+    commit_author:
+      name: goreleaserbot
+      email: bot@goreleaser.com
     install: |
       bin.install "gtt"
     test: |
