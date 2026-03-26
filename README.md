@@ -22,6 +22,13 @@
 
 ## Installation
 
+### Homebrew (macOS/Linux)
+
+```bash
+brew tap lehi10/tap
+brew install gtt
+```
+
 ### Using Go
 
 ```bash
@@ -37,11 +44,9 @@ go build -o gtt .
 sudo mv gtt /usr/local/bin/
 ```
 
-### Homebrew (coming soon)
+### Download Binaries
 
-```bash
-brew install lehi10/tap/gtt
-```
+Download pre-built binaries from [Releases](https://github.com/lehi10/Gitty/releases)
 
 ## Quick Start
 
