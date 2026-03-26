@@ -1,0 +1,21 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple G with branch -->
+  <g transform="translate(20, 20)">
+    <path d="M 35 10 A 25 25 0 1 0 35 50 L 35 30 L 25 30"
+          stroke="#10B981"
+          stroke-width="6"
+          stroke-linecap="round"
+          fill="none"/>
+    <circle cx="50" cy="30" r="5" fill="#10B981"/>
+    <line x1="35" y1="30" x2="50" y2="30" stroke="#10B981" stroke-width="4"/>
+  </g>
+
+  <!-- gitty text -->
+  <text x="90" y="62"
+        font-family="Monaco, Consolas, monospace"
+        font-size="42"
+        font-weight="bold"
+        fill="#F9FAFB">
+    gitty
+  </text>
+</svg>

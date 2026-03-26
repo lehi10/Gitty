@@ -1,6 +1,15 @@
-# gtt
+<p align="center">
+  <img src="assets/banner.svg" alt="gitty banner" width="800">
+</p>
 
-> A modern Git + GitHub CLI that makes branch management a breeze
+<p align="center">
+  <a href="#installation">Installation</a> •
+  <a href="#quick-start">Quick Start</a> •
+  <a href="#commands">Commands</a> •
+  <a href="#contributing">Contributing</a>
+</p>
+
+---
 
 `gtt` is a command-line tool that enhances your Git workflow with interactive branch visualization, stacked PR support, and seamless GitHub integration.
 
